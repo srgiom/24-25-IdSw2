@@ -13,9 +13,12 @@
 
 ### Nombrado
 - caracol_extendido debería ser CaracolExtendido (Usar PascalCase en nombres de clases) [Code 1](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/caracol/caracol_extendido.java#L1)
+- retoforif21 → El nombre de la clase no sigue la convención PascalCase en Java.
+Corrección: public class RetoForIf21 [Code 3](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/retoForIF/retoforif21.java#L1)
 
 ### Errores de Formato
 - while (vidaCaracol == true) (Uso innecesario de == true, debe ser while (vidaCaracol)) [Code 1](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/caracol/caracol_extendido.java#L16)
+- Se puede simplificar j = j + 1 y i = i + 1 a j++ y i++. [Code 3](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/retoForIF/retoforif21.java#L7)
 
 ### Comentarios
 - alturaFinal = profundidadCaida + bajada - subida + caidaCoche; (Sin comentarios, puede generar confusión sobre el efecto de cada término) [Code 1](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/caracol/caracol_extendido.java#L63)
