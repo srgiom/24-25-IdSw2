@@ -13,3 +13,9 @@
 
 ### Nombrado
 - caracol_extendido debería ser CaracolExtendido (Usar PascalCase en nombres de clases) [Code 1](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/caracol/caracol_extendido.java#L1)
+
+### Errores de Formato
+- while (vidaCaracol == true) (Uso innecesario de == true, debe ser while (vidaCaracol)) [Code 1](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/caracol/caracol_extendido.java#L16)
+
+### Comentarios
+- alturaFinal = profundidadCaida + bajada - subida + caidaCoche; (Sin comentarios, puede generar confusión sobre el efecto de cada término) [Code 1](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/caracol/caracol_extendido.java#L63)
