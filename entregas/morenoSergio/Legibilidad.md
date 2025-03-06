@@ -28,3 +28,8 @@ Corrección: public class RetoForIf21 [Code 3](https://github.com/srgiom/prg1-22
 
 ### Don’t repeat yourself - DRY
 - El código de las cajas (líneas 60-127) es repetitivo, se puede resumir en una función. [Code 2](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/retoCCCF/CCCF_ampliado.java#L109)
+
+### YAGNI (You Ain't Gonna Need It)
+- Se están evaluando muchas condiciones en línea, dificultando la legibilidad.
+Corrección: Crear una función para manejar las excepciones. [Code 3](https://github.com/srgiom/prg1-22-23/blob/8136a23dc0fcb7b62ec2a82121447e97e24f9a83/retos/entregas/sergioMoreno/retoForIF/retoforif21.java#L12)
+
